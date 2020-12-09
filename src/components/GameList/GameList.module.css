@@ -1,0 +1,9 @@
+.listItems {
+  list-style: none;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.listItems:nth-child(2n + 1) {
+  background-color: lightgray;
+}

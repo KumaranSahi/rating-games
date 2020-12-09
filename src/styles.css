@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+  width: 50%;
+  margin: auto;
+}
+
+@media (max-width: 700px) {
+  .App {
+    width: 100%;
+  }
+}
